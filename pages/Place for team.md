@@ -7,3 +7,4 @@
 - Hello my dear friens, it's really cool!
 -
 - No, no no! Don't get me
+- Сам иди нахуй, даун.
