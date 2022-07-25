@@ -12,5 +12,5 @@
 - What's the fuck bro?
 - Do you understand it?
 - yes
-- Say bye.
-- new data
+- Say hello!
+- New data aaaa
