@@ -1,1 +1,1 @@
-- {{query (task)}}
+- {{query (task TODO DOING) (sort-by created-at desc)}}
