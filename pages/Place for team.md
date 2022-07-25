@@ -6,5 +6,9 @@
 -
 - Hello my dear friens, it's really cool!
 -
+<<<<<<< HEAD
 - No, no no! Don't get me
 - Go out idiot.
+=======
+- No, no no! Don't get me that!
+>>>>>>> 2b58a35 (Auto saved by Logseq)
