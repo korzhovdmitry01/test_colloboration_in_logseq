@@ -12,4 +12,4 @@
 - What's the fuck bro?
 - Do you understand it?
 - yes
-- Say hello!
+- Say bye.
