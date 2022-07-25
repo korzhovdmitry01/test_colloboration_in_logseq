@@ -3,7 +3,7 @@
   :block/updated-at 1658768353635}
  {:block/name "artem",
   :block/created-at 1658768585315,
-  :block/updated-at 1658768585315}
+  :block/updated-at 1658768861135}
  {:block/name "b",
   :block/created-at 1658768353635,
   :block/updated-at 1658768353635}
@@ -24,7 +24,7 @@
   :block/updated-at 1658768353631}
  {:block/name "dmitry",
   :block/created-at 1658768592312,
-  :block/updated-at 1658768592312}
+  :block/updated-at 1658768835922}
  {:block/name "doing",
   :block/created-at 1658768353635,
   :block/updated-at 1658768353635}
@@ -39,7 +39,13 @@
   :block/updated-at 1658768353635}
  {:block/name "jul 25th, 2022",
   :block/created-at 1658768349792,
-  :block/updated-at 1658768349792}
+  :block/updated-at 1658769280937}
+ {:block/name "jul 26th, 2022",
+  :block/created-at 1658768835917,
+  :block/updated-at 1658768835917}
+ {:block/name "jul 27th, 2022",
+  :block/created-at 1658768861134,
+  :block/updated-at 1658768861134}
  {:block/name "later",
   :block/created-at 1658768353635,
   :block/updated-at 1658768353635}
@@ -48,7 +54,7 @@
   :block/updated-at 1658768353634}
  {:block/name "place for team",
   :block/created-at 1658768602061,
-  :block/updated-at 1658768602061}
+  :block/updated-at 1658769394846}
  {:block/name "todo",
   :block/created-at 1658768353635,
   :block/updated-at 1658768353635}
