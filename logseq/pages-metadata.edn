@@ -39,7 +39,7 @@
   :block/updated-at 1658768353635}
  {:block/name "jul 25th, 2022",
   :block/created-at 1658768349792,
-  :block/updated-at 1658769280937}
+  :block/updated-at 1658770103184}
  {:block/name "jul 26th, 2022",
   :block/created-at 1658768835917,
   :block/updated-at 1658768835917}
@@ -54,7 +54,7 @@
   :block/updated-at 1658768353634}
  {:block/name "place for team",
   :block/created-at 1658768602061,
-  :block/updated-at 1658769394846}
+  :block/updated-at 1658769660859}
  {:block/name "todo",
   :block/created-at 1658768353635,
   :block/updated-at 1658768353635}
