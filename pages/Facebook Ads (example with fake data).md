@@ -2,8 +2,9 @@ project_name:: [[Data_sources]]
 status:: #Draft 
 type:: #internal 
 assign:: [[Dmitry Korzhov]] 
-relation_task:: ((62c59d18-d49d-4758-8c06-19a378eb3b44))
 
+
+- TODO Do this page better [[Dmitry Korzhov]]
 - ## Nagivation
 	- ((62c742a5-d636-4417-a14d-6bda24720a84))
 	- ((62c742e4-fdcb-4a5d-a2d7-6ae371b357eb))
