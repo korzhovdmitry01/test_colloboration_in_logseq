@@ -1,10 +1,10 @@
 project_name:: [[Data_sources]] 
 status:: #Draft 
 type:: #internal 
-assign:: [[Dmitry Korzhov]] 
-
+assign:: [[Dmitry Korzhov]]
 
 - TODO Do this page better [[Dmitry Korzhov]]
+	- TODO sure, I'll try it today.
 - ## Nagivation
 	- ((62c742a5-d636-4417-a14d-6bda24720a84))
 	- ((62c742e4-fdcb-4a5d-a2d7-6ae371b357eb))
