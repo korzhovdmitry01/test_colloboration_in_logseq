@@ -17,4 +17,3 @@
 - new new
 - NEW DATA SOURCES
 - New
-- Dmitry
